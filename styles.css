@@ -47,12 +47,35 @@ body {
   letter-spacing: 0;
 }
 
+.home-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  margin-bottom: 16px;
+  padding: 6px 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 6px;
+  background: #fff;
+  color: #334155;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .site-subtitle {
   max-width: 720px;
   margin: 0;
   color: var(--muted);
   font-size: 14px;
   line-height: 1.45;
+}
+
+.intro-copy {
+  max-width: 930px;
+  margin: 0 0 22px;
+  color: #334155;
+  font-size: 17px;
+  line-height: 1.55;
 }
 
 .nav-links {
@@ -93,9 +116,9 @@ body {
 .pdf-viewer-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 24px;
-  padding: 18px 20px;
+  padding: 14px 20px;
   border-bottom: 1px solid #e2e8f0;
 }
 
