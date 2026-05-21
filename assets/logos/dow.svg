@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" role="img" aria-labelledby="dow-title">
+  <title id="dow-title">Dow logo</title>
+  <path fill="#e1251b" d="M6 0h52l6 20-6 20H6L0 20z"/>
+  <text x="32" y="27" text-anchor="middle" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800">Dow</text>
+</svg>

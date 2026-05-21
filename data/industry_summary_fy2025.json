@@ -1,0 +1,833 @@
+{
+  "records": 3737,
+  "top_facilities": [
+    [
+      "DIII-D",
+      911
+    ],
+    [
+      "NERSC",
+      648
+    ],
+    [
+      "ALCF",
+      316
+    ],
+    [
+      "FRIB",
+      288
+    ],
+    [
+      "APS",
+      222
+    ],
+    [
+      "OLCF",
+      219
+    ],
+    [
+      "SSRL",
+      203
+    ],
+    [
+      "TMF",
+      200
+    ],
+    [
+      "LCLS",
+      179
+    ],
+    [
+      "ALS",
+      126
+    ],
+    [
+      "NSLS-II",
+      101
+    ],
+    [
+      "CNM",
+      86
+    ],
+    [
+      "CINT",
+      47
+    ],
+    [
+      "CNMS",
+      35
+    ],
+    [
+      "ARM",
+      32
+    ],
+    [
+      "NSTX-U",
+      30
+    ],
+    [
+      "JGI",
+      28
+    ],
+    [
+      "CEBAF",
+      13
+    ],
+    [
+      "EMSL",
+      12
+    ],
+    [
+      "ESnet (Testbed)",
+      8
+    ],
+    [
+      "Fermilab AC",
+      8
+    ],
+    [
+      "HFIR",
+      7
+    ],
+    [
+      "SNS",
+      7
+    ],
+    [
+      "ATF",
+      5
+    ],
+    [
+      "CFN",
+      5
+    ],
+    [
+      "FACET-II",
+      1
+    ]
+  ],
+  "top_companies": [
+    [
+      "General Atomics",
+      970
+    ],
+    [
+      "Substrate Inc.",
+      187
+    ],
+    [
+      "Nvidia Corporation",
+      161
+    ],
+    [
+      "Texas Instruments",
+      101
+    ],
+    [
+      "Eli Lilly and Company",
+      88
+    ],
+    [
+      "Intel Corporation",
+      62
+    ],
+    [
+      "General Electric Company (GE)",
+      57
+    ],
+    [
+      "Microsurgeonbot, Inc.",
+      43
+    ],
+    [
+      "Kitware, Inc.",
+      43
+    ],
+    [
+      "Crystallographic Consulting LLC",
+      41
+    ],
+    [
+      "Hansoh Bio, LLC",
+      38
+    ],
+    [
+      "Space Exploration Technologies Corporation (SpaceX)",
+      32
+    ],
+    [
+      "Hewlett-Packard Company",
+      31
+    ],
+    [
+      "[C]Worthy",
+      29
+    ],
+    [
+      "Xanadu Quantum Technologies Inc.",
+      26
+    ],
+    [
+      "International Business Machines (IBM)",
+      25
+    ],
+    [
+      "Next Step Fusion",
+      24
+    ],
+    [
+      "Fiat Lux LLC",
+      24
+    ],
+    [
+      "Novartis Institutes for BioMedical Research (NIBR)",
+      24
+    ],
+    [
+      "JPMorgan Chase & Co.",
+      24
+    ],
+    [
+      "Qubit Pharmaceuticals",
+      23
+    ],
+    [
+      "Amgen, Inc.",
+      22
+    ],
+    [
+      "Type One Energy Group, Inc.",
+      22
+    ],
+    [
+      "Northrop Grumman",
+      21
+    ],
+    [
+      "General Electric Company (GE) Vernova",
+      20
+    ],
+    [
+      "Tri Alpha Energy, Inc.",
+      20
+    ],
+    [
+      "Helix BioStructures, LLC",
+      19
+    ],
+    [
+      "Tech-X Corporation",
+      19
+    ],
+    [
+      "Exelixis, Inc.",
+      19
+    ],
+    [
+      "Schlumberger (SLB)",
+      19
+    ],
+    [
+      "Sunchem LLC",
+      19
+    ],
+    [
+      "Gilead Sciences, Inc.",
+      18
+    ],
+    [
+      "Cocrystal Pharma, Inc",
+      18
+    ],
+    [
+      "Incyte Corporation",
+      18
+    ],
+    [
+      "The HDF Group",
+      16
+    ],
+    [
+      "Simon Scientific",
+      16
+    ],
+    [
+      "Scientic, Inc.",
+      16
+    ],
+    [
+      "Thea Energy",
+      15
+    ],
+    [
+      "Advanced Micro Devices, Inc.",
+      15
+    ],
+    [
+      "Zap Energy Inc.",
+      15
+    ],
+    [
+      "Caporus Technologies, LLC",
+      15
+    ],
+    [
+      "HighRI Optics, Inc.",
+      15
+    ],
+    [
+      "Sonoma Technology Inc.",
+      14
+    ],
+    [
+      "Micromole Inc.",
+      14
+    ],
+    [
+      "TechTrans International",
+      14
+    ],
+    [
+      "UOP, LLC",
+      13
+    ],
+    [
+      "Combustion Research and Flow Technology, Inc (CRAFT Tech)",
+      13
+    ],
+    [
+      "Entos, Inc.",
+      13
+    ],
+    [
+      "Canvas Inc.",
+      13
+    ],
+    [
+      "Helion ENergy",
+      12
+    ],
+    [
+      "Oumi PBC",
+      12
+    ],
+    [
+      "CompX Group",
+      12
+    ],
+    [
+      "Sapientai",
+      11
+    ],
+    [
+      "Pacific Fusion Corporation",
+      11
+    ],
+    [
+      "QuEra Computing Inc.",
+      11
+    ],
+    [
+      "NanoPattern Technologies, Inc.",
+      11
+    ],
+    [
+      "Infineon Technologies",
+      11
+    ],
+    [
+      "Boeing Company",
+      10
+    ],
+    [
+      "British Petroleum (BP)",
+      10
+    ],
+    [
+      "Dow Chemical Company",
+      10
+    ],
+    [
+      "Pivot Bio, Inc.",
+      10
+    ],
+    [
+      "Accelero Biostructures, Inc.",
+      10
+    ],
+    [
+      "Iris Light Technologies",
+      10
+    ],
+    [
+      "Primitives, Inc.",
+      10
+    ],
+    [
+      "Tokamak Energy Ltd.",
+      9
+    ],
+    [
+      "Avalanche Energy Designs",
+      9
+    ],
+    [
+      "UCB Biosciences, Inc.",
+      9
+    ],
+    [
+      "ParaTools, Inc.",
+      9
+    ],
+    [
+      "Structure Based Design, Inc.",
+      9
+    ],
+    [
+      "Accelerated Muscle Biotechnologies",
+      9
+    ],
+    [
+      "Axiom Space",
+      9
+    ],
+    [
+      "Radiation Test Solutions",
+      9
+    ],
+    [
+      "Specksnyder Labs LLC",
+      9
+    ],
+    [
+      "Convergent Science, Inc.",
+      9
+    ],
+    [
+      "Atmospheric and Environmental Research, Inc.",
+      8
+    ],
+    [
+      "Sandia Corporation",
+      8
+    ],
+    [
+      "DeNovX, LLC",
+      8
+    ],
+    [
+      "ExxonMobil",
+      8
+    ],
+    [
+      "Cadence Design Systems, Inc.",
+      8
+    ],
+    [
+      "Realta Fusion",
+      8
+    ]
+  ],
+  "top_company_facility_pairs": [
+    {
+      "company": "General Atomics",
+      "facility": "DIII-D",
+      "unique_titles": 136
+    },
+    {
+      "company": "Texas Instruments",
+      "facility": "FRIB",
+      "unique_titles": 40
+    },
+    {
+      "company": "Nvidia Corporation",
+      "facility": "NERSC",
+      "unique_titles": 36
+    },
+    {
+      "company": "General Atomics",
+      "facility": "NERSC",
+      "unique_titles": 28
+    },
+    {
+      "company": "Intel Corporation",
+      "facility": "ALCF",
+      "unique_titles": 24
+    },
+    {
+      "company": "Schlumberger (SLB)",
+      "facility": "FRIB",
+      "unique_titles": 18
+    },
+    {
+      "company": "Nvidia Corporation",
+      "facility": "ALCF",
+      "unique_titles": 13
+    },
+    {
+      "company": "General Electric Company (GE)",
+      "facility": "OLCF",
+      "unique_titles": 12
+    },
+    {
+      "company": "Northrop Grumman",
+      "facility": "FRIB",
+      "unique_titles": 12
+    },
+    {
+      "company": "TechTrans International",
+      "facility": "ALCF",
+      "unique_titles": 12
+    },
+    {
+      "company": "Advanced Micro Devices, Inc.",
+      "facility": "OLCF",
+      "unique_titles": 11
+    },
+    {
+      "company": "General Atomics",
+      "facility": "NSTX-U",
+      "unique_titles": 11
+    },
+    {
+      "company": "Canvas Inc.",
+      "facility": "FRIB",
+      "unique_titles": 10
+    },
+    {
+      "company": "Qubit Pharmaceuticals",
+      "facility": "ALCF",
+      "unique_titles": 10
+    },
+    {
+      "company": "Tech-X Corporation",
+      "facility": "NERSC",
+      "unique_titles": 9
+    },
+    {
+      "company": "Fiat Lux LLC",
+      "facility": "NERSC",
+      "unique_titles": 9
+    },
+    {
+      "company": "International Business Machines (IBM)",
+      "facility": "NSLS-II",
+      "unique_titles": 9
+    },
+    {
+      "company": "Kitware, Inc.",
+      "facility": "NERSC",
+      "unique_titles": 8
+    },
+    {
+      "company": "Substrate Inc.",
+      "facility": "LCLS",
+      "unique_titles": 8
+    },
+    {
+      "company": "The HDF Group",
+      "facility": "ALCF",
+      "unique_titles": 8
+    },
+    {
+      "company": "Hewlett-Packard Company",
+      "facility": "OLCF",
+      "unique_titles": 7
+    },
+    {
+      "company": "Hewlett-Packard Company",
+      "facility": "NERSC",
+      "unique_titles": 7
+    },
+    {
+      "company": "Space Exploration Technologies Corporation (SpaceX)",
+      "facility": "FRIB",
+      "unique_titles": 7
+    },
+    {
+      "company": "CAEN Technologies",
+      "facility": "FRIB",
+      "unique_titles": 7
+    },
+    {
+      "company": "Srijan LLC",
+      "facility": "FRIB",
+      "unique_titles": 7
+    },
+    {
+      "company": "Hewlett-Packard Company",
+      "facility": "ALCF",
+      "unique_titles": 7
+    },
+    {
+      "company": "UOP, LLC",
+      "facility": "APS",
+      "unique_titles": 6
+    },
+    {
+      "company": "Nvidia Corporation",
+      "facility": "OLCF",
+      "unique_titles": 6
+    },
+    {
+      "company": "Kitware, Inc.",
+      "facility": "OLCF",
+      "unique_titles": 6
+    },
+    {
+      "company": "General Electric Company (GE) Vernova",
+      "facility": "OLCF",
+      "unique_titles": 6
+    },
+    {
+      "company": "Tri Alpha Energy, Inc.",
+      "facility": "NERSC",
+      "unique_titles": 6
+    },
+    {
+      "company": "Radiation Test Solutions",
+      "facility": "FRIB",
+      "unique_titles": 6
+    },
+    {
+      "company": "HighRI Optics, Inc.",
+      "facility": "TMF",
+      "unique_titles": 6
+    },
+    {
+      "company": "JPMorgan Chase & Co.",
+      "facility": "ALCF",
+      "unique_titles": 6
+    },
+    {
+      "company": "Cadence Design Systems, Inc.",
+      "facility": "OLCF",
+      "unique_titles": 5
+    },
+    {
+      "company": "Sonoma Technology Inc.",
+      "facility": "ALS",
+      "unique_titles": 5
+    },
+    {
+      "company": "Infineon Technologies",
+      "facility": "FRIB",
+      "unique_titles": 5
+    },
+    {
+      "company": "Axiom Space",
+      "facility": "FRIB",
+      "unique_titles": 5
+    },
+    {
+      "company": "ThermoFisher Scientific",
+      "facility": "FRIB",
+      "unique_titles": 5
+    },
+    {
+      "company": "Value Added Solutions, Inc.",
+      "facility": "ALCF",
+      "unique_titles": 5
+    },
+    {
+      "company": "General Electric Company (GE)",
+      "facility": "ALCF",
+      "unique_titles": 5
+    },
+    {
+      "company": "Sapientai",
+      "facility": "DIII-D",
+      "unique_titles": 4
+    },
+    {
+      "company": "Fiat Lux LLC",
+      "facility": "DIII-D",
+      "unique_titles": 4
+    },
+    {
+      "company": "Helion ENergy",
+      "facility": "NERSC",
+      "unique_titles": 4
+    },
+    {
+      "company": "CompX Group",
+      "facility": "NERSC",
+      "unique_titles": 4
+    },
+    {
+      "company": "Combustion Research and Flow Technology, Inc (CRAFT Tech)",
+      "facility": "NERSC",
+      "unique_titles": 4
+    },
+    {
+      "company": "Advanced Micro Devices, Inc.",
+      "facility": "NERSC",
+      "unique_titles": 4
+    },
+    {
+      "company": "Ergodic LLC",
+      "facility": "NERSC",
+      "unique_titles": 4
+    },
+    {
+      "company": "Crystallographic Consulting LLC",
+      "facility": "ALS",
+      "unique_titles": 4
+    },
+    {
+      "company": "Novozymes, Inc.",
+      "facility": "JGI",
+      "unique_titles": 4
+    },
+    {
+      "company": "Crystallographic Consulting LLC",
+      "facility": "SSRL",
+      "unique_titles": 4
+    },
+    {
+      "company": "Alcorix Co.",
+      "facility": "CNM",
+      "unique_titles": 4
+    },
+    {
+      "company": "Scientic, Inc.",
+      "facility": "FRIB",
+      "unique_titles": 4
+    },
+    {
+      "company": "Raytheon Technologies",
+      "facility": "FRIB",
+      "unique_titles": 4
+    },
+    {
+      "company": "Coreshell Technologies, Inc.",
+      "facility": "TMF",
+      "unique_titles": 4
+    },
+    {
+      "company": "General Atomics",
+      "facility": "ALCF",
+      "unique_titles": 4
+    },
+    {
+      "company": "Kitware, Inc.",
+      "facility": "ALCF",
+      "unique_titles": 4
+    },
+    {
+      "company": "Convergent Science, Inc.",
+      "facility": "ALCF",
+      "unique_titles": 4
+    },
+    {
+      "company": "Linaro Limited",
+      "facility": "ALCF",
+      "unique_titles": 4
+    },
+    {
+      "company": "Nova Photonics, Inc",
+      "facility": "NSTX-U",
+      "unique_titles": 4
+    },
+    {
+      "company": "ACRI-ST",
+      "facility": "ARM",
+      "unique_titles": 3
+    },
+    {
+      "company": "Arable Labs",
+      "facility": "ARM",
+      "unique_titles": 3
+    },
+    {
+      "company": "Atmospheric and Environmental Research, Inc.",
+      "facility": "ARM",
+      "unique_titles": 3
+    },
+    {
+      "company": "Sandia Corporation",
+      "facility": "CNMS",
+      "unique_titles": 3
+    },
+    {
+      "company": "Next Step Fusion",
+      "facility": "DIII-D",
+      "unique_titles": 3
+    },
+    {
+      "company": "Cascade Technologies, Inc.",
+      "facility": "DIII-D",
+      "unique_titles": 3
+    },
+    {
+      "company": "Tokamak Energy Ltd.",
+      "facility": "DIII-D",
+      "unique_titles": 3
+    },
+    {
+      "company": "EnCarda",
+      "facility": "APS",
+      "unique_titles": 3
+    },
+    {
+      "company": "Fujitsu Research America",
+      "facility": "OLCF",
+      "unique_titles": 3
+    },
+    {
+      "company": "International Business Machines (IBM)",
+      "facility": "OLCF",
+      "unique_titles": 3
+    },
+    {
+      "company": "General Atomics",
+      "facility": "OLCF",
+      "unique_titles": 3
+    },
+    {
+      "company": "QDX Technologies",
+      "facility": "OLCF",
+      "unique_titles": 3
+    },
+    {
+      "company": "Type One Energy Group, Inc.",
+      "facility": "OLCF",
+      "unique_titles": 3
+    },
+    {
+      "company": "Boeing Company",
+      "facility": "OLCF",
+      "unique_titles": 3
+    },
+    {
+      "company": "Realta Fusion",
+      "facility": "NERSC",
+      "unique_titles": 3
+    },
+    {
+      "company": "HyPerComp Inc.",
+      "facility": "NERSC",
+      "unique_titles": 3
+    },
+    {
+      "company": "[C]Worthy",
+      "facility": "NERSC",
+      "unique_titles": 3
+    },
+    {
+      "company": "Intel Corporation",
+      "facility": "NERSC",
+      "unique_titles": 3
+    },
+    {
+      "company": "The HDF Group",
+      "facility": "NERSC",
+      "unique_titles": 3
+    },
+    {
+      "company": "Accelerated Muscle Biotechnologies",
+      "facility": "NSLS-II",
+      "unique_titles": 3
+    }
+  ]
+}
