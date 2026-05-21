@@ -23,9 +23,9 @@ body {
 }
 
 .page-shell {
-  width: min(100%, 1720px);
+  width: min(100%, 1200px);
   margin: 0 auto;
-  padding: 28px 32px 56px;
+  padding: 32px 28px 48px;
 }
 
 .site-header {
@@ -33,12 +33,16 @@ body {
   align-items: flex-start;
   justify-content: space-between;
   gap: 32px;
-  margin-bottom: 22px;
+  margin-bottom: 20px;
+}
+
+.pdf-only-header {
+  display: block;
 }
 
 .site-title {
   margin: 0 0 7px;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.15;
   letter-spacing: 0;
 }
@@ -79,7 +83,8 @@ body {
 }
 
 .pdf-viewer-section {
-  margin-bottom: 30px;
+  max-width: 1080px;
+  margin: 0 auto 30px;
   border: 1px solid #d7dde7;
   background: #fff;
   box-shadow: 0 18px 60px rgba(15, 23, 42, 0.08);
@@ -134,8 +139,8 @@ body {
 .pdf-frame {
   display: block;
   width: 100%;
-  height: min(82vh, 960px);
-  min-height: 640px;
+  height: min(64vh, 680px);
+  min-height: 430px;
   border: 0;
   background: #fff;
 }
@@ -373,8 +378,8 @@ body.export-mode .graphic {
   }
 
   .pdf-frame {
-    height: 78vh;
-    min-height: 520px;
+    height: 62vh;
+    min-height: 360px;
   }
 
   .nav-links {

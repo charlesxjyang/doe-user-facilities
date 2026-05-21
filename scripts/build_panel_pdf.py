@@ -39,7 +39,7 @@ def build_html():
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>DOE User Facilities Company Project Graphics</title>
+    <title>Department of Energy National Lab User Facilities</title>
     <style>
       @page {{
         size: 16in 9in;
@@ -129,8 +129,8 @@ def build_html():
   </head>
   <body>
     <section class="page title-page">
-      <h1>DOE User Facilities Company Project Graphics</h1>
-      <p>Selected FY2025 industry projects mapped to DOE-SC user facility locations.</p>
+      <h1>Department of Energy National Lab User Facilities</h1>
+      <p>Selected FY25 Industry Projects</p>
       <div class="rule"></div>
       <div class="panel-list-title">Panels</div>
       <ol>
